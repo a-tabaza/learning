@@ -38,7 +38,7 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [Udacity Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
 - [CUDA MODE Lectures](https://github.com/cuda-mode)
 - [Knowledge Graphs - Foundations and Applications (OpenHPI 2023)](https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF)
-
+- [Reinforcement Learning By David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 ## Books and References
 - [Lecture Notes for Machine Learning Theory](https://github.com/tengyuma/cs229m_notes/)
