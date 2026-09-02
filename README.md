@@ -1,8 +1,8 @@
 # Learning
 
-push resources here
+Push resources here
 
-two remote: origin is gitlab, origin2 is github, push to both so they don't get out of sync
+Two remotes: origin is gitlab, origin2 is github, push to both so they don't get out of sync
 
 ## Names
 Casey Muratori, Jonathan Blow, Richard Hipp, Joran Dirk Greef
