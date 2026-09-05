@@ -8,8 +8,6 @@ Two remotes: origin is gitlab, origin2 is github, push to both so they don't get
 Casey Muratori, Jonathan Blow, Richard Hipp, Joran Dirk Greef
 
 ## Lectures
-Most of these are offered throughout the years, you'll need to look for the lectures on YouTube yourself but I'll link the course site.
-
 - [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)
 - [UC Berkley Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
 - [UC Berkley Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/)
