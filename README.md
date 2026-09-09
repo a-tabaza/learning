@@ -69,3 +69,4 @@ Casey Muratori, Jonathan Blow, Richard Hipp, Joran Dirk Greef
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
 - [Black Hat Python](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
 - [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
+- [GPU Perf Engineering](https://github.com/wafer-ai/gpu-perf-engineering-resources)
