@@ -70,3 +70,5 @@ Casey Muratori, Jonathan Blow, Richard Hipp, Joran Dirk Greef
 - [Black Hat Python](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
 - [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
 - [GPU Perf Engineering](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- [Writing A Compiler In Go](https://compilerbook.com/)
