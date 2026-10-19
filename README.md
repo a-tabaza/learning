@@ -72,3 +72,4 @@ Casey Muratori, Jonathan Blow, Richard Hipp, Joran Dirk Greef
 - [GPU Perf Engineering](https://github.com/wafer-ai/gpu-perf-engineering-resources)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [Writing A Compiler In Go](https://compilerbook.com/)
+- [Inference Engineering by Philip Kiely](https://www.baseten.co/inference-engineering/book/)
