@@ -73,3 +73,4 @@ Casey Muratori, Jonathan Blow, Richard Hipp, Joran Dirk Greef
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [Writing A Compiler In Go](https://compilerbook.com/)
 - [Inference Engineering by Philip Kiely](https://www.baseten.co/inference-engineering/book/)
+- [Generative Recommendation Inference](https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm)
